@@ -1,0 +1,20 @@
+#labels Phase-Deploy,Phase-Support,Phase-Requirements
+#Installing Wordpress using Wordpress Installer
+
+= Introduction =
+
+Download and extract the zip file and upload it to the domain directory where you want to install the wordpress.
+
+= Details =
+
+*Go to the address bar and type the full path to the file " fairyhost-wp-installer.php" and hit enter.
+
+*You will be prompted to enter database information
+
+*After filling up the details, submit the form. If your details are incorrect, you will see the error page.
+
+*Instead you will be redirected to the Wordpress Installation and asked to enter your site information.
+
+*Provide the information of Site title, username and password and submit the form. You will get a success message.
+
+*Login to your wordpress admin are using the password and username you previously set to see whether you have installed the latest version of wordpress or not.
